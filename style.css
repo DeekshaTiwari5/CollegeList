@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: rgb(7, 18, 26);
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+#collegeTable {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden; /* Hide overflowing content */
+}
+
+#collegeTable thead th {
+  border: 2px solid black;
+  padding: 8px;
+  text-align: left;
+  background-color: #4db4bd;
+}
+
+#collegeTable tbody td {
+  border: 2px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+/* CSS for hover effect */
+#collegeTable tbody tr:hover {
+  background-color: #e7c88a; /* Change to your desired hover color */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+#collegeTable tbody td.hover {
+  background-color: rgb(179, 160, 108);
+}
+
+/* Add scrollbar to tbody */
+#collegeTable tbody {
+  max-height: 400px; /* Adjust as needed */
+  overflow-y: auto;
+}

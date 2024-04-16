@@ -1,0 +1,382 @@
+[
+  {
+    "CDRank": "#1",
+    "Colleges": {
+      "name": "Harvard University",
+      "address": "Cambridge, Massachusetts, USA",
+      "course": "Computer Science",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$100,000",
+      "highestPackage": "$150,000"
+    },
+    "UserReviews": {
+      "rating": "8.6/10",
+      "numberOfReviews": 5000
+    },
+    "Ranking": "#3rd /131 in India"
+  },
+  {
+    "CDRank": "#2",
+    "Colleges": {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "address": "Cambridge, Massachusetts, USA",
+      "course": "Electrical Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$110,000",
+      "highestPackage": "$160,000"
+    },
+    "UserReviews": {
+      "rating": "8.5/10",
+      "numberOfReviews": 4800
+    },
+    "Ranking": "#5th /131 in India"
+  },
+  {
+    "CDRank": "#3",
+    "Colleges": {
+      "name": "Stanford University",
+      "address": "Stanford, California, USA",
+      "course": "Mechanical Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$105,000",
+      "highestPackage": "$155,000"
+    },
+    "UserReviews": {
+      "rating": "8.7/10",
+      "numberOfReviews": 5200
+    },
+    "Ranking": "#2nd /131 in India"
+  },
+  {
+    "CDRank": "#4",
+    "Colleges": {
+      "name": "California Institute of Technology (Caltech)",
+      "address": "Pasadena, California, USA",
+      "course": "Physics",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$115,000",
+      "highestPackage": "$165,000"
+    },
+    "UserReviews": {
+      "rating": "8.9/10",
+      "numberOfReviews": 5500
+    },
+    "Ranking": "#1st /131 in India"
+  },
+  {
+    "CDRank": "#5",
+    "Colleges": {
+      "name": "University of California, Berkeley",
+      "address": "Berkeley, California, USA",
+      "course": "Computer Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$95,000",
+      "highestPackage": "$145,000"
+    },
+    "UserReviews": {
+      "rating": "8.4/10",
+      "numberOfReviews": 4700
+    },
+    "Ranking": "#7th /131 in India"
+  },
+  {
+    "CDRank": "#6",
+    "Colleges": {
+      "name": "Princeton University",
+      "address": "Princeton, New Jersey, USA",
+      "course": "Chemical Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$98,000",
+      "highestPackage": "$148,000"
+    },
+    "UserReviews": {
+      "rating": "8.8/10",
+      "numberOfReviews": 5300
+    },
+    "Ranking": "#4th /131 in India"
+  },
+  {
+    "CDRank": "#7",
+    "Colleges": {
+      "name": "Yale University",
+      "address": "New Haven, Connecticut, USA",
+      "course": "Civil Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$102,000",
+      "highestPackage": "$152,000"
+    },
+    "UserReviews": {
+      "rating": "8.7/10",
+      "numberOfReviews": 5100
+    },
+    "Ranking": "#6th /131 in India"
+  },
+  {
+    "CDRank": "#8",
+    "Colleges": {
+      "name": "University of Chicago",
+      "address": "Chicago, Illinois, USA",
+      "course": "Economics",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$97,000",
+      "highestPackage": "$147,000"
+    },
+    "UserReviews": {
+      "rating": "8.6/10",
+      "numberOfReviews": 4900
+    },
+    "Ranking": "#8th /131 in India"
+  },
+  {
+    "CDRank": "#9",
+    "Colleges": {
+      "name": "University of Pennsylvania",
+      "address": "Philadelphia, Pennsylvania, USA",
+      "course": "Business Administration",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$104,000",
+      "highestPackage": "$154,000"
+    },
+    "UserReviews": {
+      "rating": "8.5/10",
+      "numberOfReviews": 4900
+    },
+    "Ranking": "#9th /131 in India"
+  },
+  {
+    "CDRank": "#10",
+    "Colleges": {
+      "name": "Columbia University",
+      "address": "New York City, New York, USA",
+      "course": "Political Science",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$96,000",
+      "highestPackage": "$146,000"
+    },
+    "UserReviews": {
+      "rating": "8.6/10",
+      "numberOfReviews": 5000
+    },
+    "Ranking": "#10th /131 in India"
+  },
+  {
+    "CDRank": "#11",
+    "Colleges": {
+      "name": "University of Cambridge",
+      "address": "Cambridge, England, UK",
+      "course": "Mathematics",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$95,000",
+      "highestPackage": "$145,000"
+    },
+    "UserReviews": {
+      "rating": "8.7/10",
+      "numberOfReviews": 5200
+    },
+    "Ranking": "#11th /131 in India"
+  },
+  {
+    "CDRank": "#12",
+    "Colleges": {
+      "name": "University of Oxford",
+      "address": "Oxford, England, UK",
+      "course": "English Literature",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$92,000",
+      "highestPackage": "$142,000"
+    },
+    "UserReviews": {
+      "rating": "8.8/10",
+      "numberOfReviews": 5400
+    },
+    "Ranking": "#12th /131 in India"
+  },
+  {
+    "CDRank": "#13",
+    "Colleges": {
+      "name": "University College London (UCL)",
+      "address": "London, England, UK",
+      "course": "History",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$93,000",
+      "highestPackage": "$143,000"
+    },
+    "UserReviews": {
+      "rating": "8.7/10",
+      "numberOfReviews": 5100
+    },
+    "Ranking": "#13th /131 in India"
+  },
+  {
+    "CDRank": "#14",
+    "Colleges": {
+      "name": "University of Toronto",
+      "address": "Toronto, Ontario, Canada",
+      "course": "Computer Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$94,000",
+      "highestPackage": "$144,000"
+    },
+    "UserReviews": {
+      "rating": "8.6/10",
+      "numberOfReviews": 5000
+    },
+    "Ranking": "#14th /131 in India"
+  },
+  {
+    "CDRank": "#15",
+    "Colleges": {
+      "name": "ETH Zurich - Swiss Federal Institute of Technology",
+      "address": "Zurich, Switzerland",
+      "course": "Mechanical Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$95,000",
+      "highestPackage": "$145,000"
+    },
+    "UserReviews": {
+      "rating": "8.5/10",
+      "numberOfReviews": 4800
+    },
+    "Ranking": "#15th /131 in India"
+  },
+  {
+    "CDRank": "#16",
+    "Colleges": {
+      "name": "University of Michigan, Ann Arbor",
+      "address": "Ann Arbor, Michigan, USA",
+      "course": "Chemical Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$97,000",
+      "highestPackage": "$147,000"
+    },
+    "UserReviews": {
+      "rating": "8.4/10",
+      "numberOfReviews": 4700
+    },
+    "Ranking": "#16th /131 in India"
+  },
+  {
+    "CDRank": "#17",
+    "Colleges": {
+      "name": "University of California, Los Angeles (UCLA)",
+      "address": "Los Angeles, California, USA",
+      "course": "Film Studies",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$93,000",
+      "highestPackage": "$143,000"
+    },
+    "UserReviews": {
+      "rating": "8.5/10",
+      "numberOfReviews": 4900
+    },
+    "Ranking": "#17th /131 in India"
+  },
+  {
+    "CDRank": "#18",
+    "Colleges": {
+      "name": "University of Tokyo",
+      "address": "Tokyo, Japan",
+      "course": "Computer Science",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$96,000",
+      "highestPackage": "$146,000"
+    },
+    "UserReviews": {
+      "rating": "8.4/10",
+      "numberOfReviews": 4800
+    },
+    "Ranking": "#18th /131 in India"
+  },
+  {
+    "CDRank": "#19",
+    "Colleges": {
+      "name": "University of Melbourne",
+      "address": "Melbourne, Victoria, Australia",
+      "course": "Biomedical Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$98,000",
+      "highestPackage": "$148,000"
+    },
+    "UserReviews": {
+      "rating": "8.3/10",
+      "numberOfReviews": 4600
+    },
+    "Ranking": "#19th /131 in India"
+  },
+  {
+    "CDRank": "#20",
+    "Colleges": {
+      "name": "University of Sydney",
+      "address": "Sydney, New South Wales, Australia",
+      "course": "Civil Engineering",
+      "applyNowButton": "Apply Now",
+      "downloadBrochure": "Download Brochure"
+    },
+    "CoursesFees": {
+      "averagePackage": "$97,000",
+      "highestPackage": "$147,000"
+    },
+    "UserReviews": {
+      "rating": "8.2/10",
+      "numberOfReviews": 4500
+    },
+    "Ranking": "#20th /131 in India"
+  }
+]
